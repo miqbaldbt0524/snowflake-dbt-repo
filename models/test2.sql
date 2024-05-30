@@ -1,5 +1,5 @@
 Select * FROM DB_ECOMM.SC_ECOMM.users
-union ALL
+union all
 Select * FROM DB_ECOMM.SC_ECOMM.users
-union ALL
+union all
 Select * FROM DB_ECOMM.SC_ECOMM.users
